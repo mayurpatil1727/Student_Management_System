@@ -1,0 +1,121 @@
+﻿@model App1_withMVC.Models.StudentModel
+
+@{
+    ViewData["Title"] = "ProfilePage";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<h2 class="container-fluid text-info bg-warning ">Edit ProfilePage</h2>
+
+<div>
+
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.StudentID)
+        </dt>
+        <dd>
+            <input type="text"  id="ID1" value="@Html.DisplayFor(model => model.StudentID)" placeholder=""  readonly>  
+        </dd>
+        <dt>
+           @Html.DisplayNameFor(model => model.FirstName)
+        </dt>
+        <dd>
+            <input type="text" class="editable" id="FN1" value="@Html.DisplayFor(model => model.FirstName)"  placeholder="" >
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.LastName)
+        </dt>
+        <dd>
+            <input type="text" class="editable" id="LN1" value="@Html.DisplayFor(model => model.LastName)" placeholder="">
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.StudentEmail)
+        </dt>
+        <dd>
+            <input type="text" class="editable" id="EM1" value="@Html.DisplayFor(model => model.StudentEmail)"  placeholder="">
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.StudentPassword)
+        </dt>
+        <dd>  
+            <input type="text" class="editable" id="PW1" value="@Html.DisplayFor(model => model.StudentPassword)" placeholder="">
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Sque)
+        </dt>
+        <dd>
+                <div>
+                    <select id="SQ1" class="abc" required>
+                        <option value="0">@ViewBag.tuv.Sque</option>
+                        @foreach (var item2 in ViewBag.ghi)
+                        {
+                            <option value="@item2.Qid">@item2.SecurityQue</option>
+                        }
+                    </select>
+                </div>   
+
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Sans)
+        </dt>
+        <dd>
+            <input type="text" class="editable" id="SA1" value="@Html.DisplayFor(model => model.Sans)" placeholder=" ">
+        </dd>
+        <dt>
+            Education
+        </dt>
+        <dd>
+            <table>
+                <thead>
+                    <tr>
+                        <th class="col-md-1">Qualification</th>
+                        <th class="col-md-1">Institute Name</th>
+                        <th class="col-md-1">Passing Year</th>
+                        <th class="col-md-1">Score</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in ViewBag.DynamicQual3)
+                    {
+                    <tr>
+                        <td>
+                            <div>
+                                <select id="QU1"  class="abcd" required>
+                                    <option  value="0">@item.Qualification</option>
+                                    @foreach (var item2 in ViewBag.jkl)
+                                    {
+                                        <option value="@item2.Qid">@item2.Qname</option>
+                                    }
+                                </select>
+                            </div>
+                        </td>
+                        <td class="col-md-1"> <input type="text" id="IN1" class="editable1" value="@item.InstName" placeholder=""></td>
+                        <td class="col-md-1"> <input type="text" id="PY1" class="editable1" value="@item.PassYear" placeholder=""></td>
+                        <td class="col-md-1"> <input type="text" id="SC1" class="editable1" value="@item.Score" placeholder=""></td>
+
+                    </tr>
+                    }
+                </tbody>
+            </table>
+        </dd>
+    </dl>
+</div>
+
+<div class=Center align='center'>
+    <button type="submit" id="saveEditedProfile" class="container-fluid text-info bg-warning  ">Save</button>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+

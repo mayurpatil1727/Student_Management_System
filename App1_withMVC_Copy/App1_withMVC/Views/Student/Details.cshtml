@@ -1,0 +1,85 @@
+﻿@model App1_withMVC.Models.StudentModel
+
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="container-fluid text-info bg-primary ">User Details</h2>
+
+<div>
+
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.StudentID)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.StudentID)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.LastName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.StudentEmail)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.StudentEmail)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.StudentPassword)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.StudentPassword)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Sque)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Sque)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Sans)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Sans)
+        </dd>
+        <dt>
+            Education
+        </dt>
+        <dd>
+            <table>
+                <thead>
+                    <tr>
+                        <th class="col-md-1">Qualification</th>
+                        <th class="col-md-1">Institute Name</th>
+                        <th class="col-md-1">Passing Year</th>
+                        <th class="col-md-1">Score</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in ViewBag.DynamicQual2)
+                    {
+                        <tr>
+                            <td class="col-md-1">@item.Qualification</td>
+                            <td class="col-md-1">@item.InstName</td>
+                            <td class="col-md-1">@item.PassYear</td>
+                            <td class="col-md-1">@item.Score</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </dd>
+    </dl>
+</div>
+

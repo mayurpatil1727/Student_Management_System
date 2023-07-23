@@ -1,0 +1,156 @@
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\bin\Debug\netcoreapp2.1\App1_withMVC.deps.json
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\bin\Debug\netcoreapp2.1\App1_withMVC.runtimeconfig.json
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\bin\Debug\netcoreapp2.1\App1_withMVC.runtimeconfig.dev.json
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\bin\Debug\netcoreapp2.1\App1_withMVC.dll
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\bin\Debug\netcoreapp2.1\App1_withMVC.pdb
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\bin\Debug\netcoreapp2.1\App1_withMVC.Views.dll
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\bin\Debug\netcoreapp2.1\App1_withMVC.Views.pdb
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.csprojAssemblyReference.cache
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.csproj.CoreCompileInputs.cache
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.RazorAssemblyInfo.cache
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.RazorAssemblyInfo.cs
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.AssemblyInfoInputs.cache
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.AssemblyInfo.cs
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.TagHelpers.input.cache
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.TagHelpers.output.cache
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.RazorCoreGenerate.cache
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.RazorTargetAssemblyInfo.cache
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.RazorTargetAssemblyInfo.cs
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.Views.pdb
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.dll
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.pdb
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.csproj.CopyComplete
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\RegForm.g.cshtml.cs
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\LoginForm.g.cshtml.cs
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\ProfilePage.g.cshtml.cs
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\ShowUsers.g.cshtml.cs
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\Edit.g.cshtml.cs
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\Details.g.cshtml.cs
+C:\Users\Mayur.Patil\source\repos\App1_withMVC\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\LockedAccount.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\bin\Debug\netcoreapp2.1\App1_withMVC.deps.json
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\bin\Debug\netcoreapp2.1\App1_withMVC.runtimeconfig.json
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\bin\Debug\netcoreapp2.1\App1_withMVC.runtimeconfig.dev.json
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\bin\Debug\netcoreapp2.1\App1_withMVC.dll
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\bin\Debug\netcoreapp2.1\App1_withMVC.pdb
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\bin\Debug\netcoreapp2.1\App1_withMVC.Views.dll
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\bin\Debug\netcoreapp2.1\App1_withMVC.Views.pdb
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.csprojAssemblyReference.cache
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.csproj.CoreCompileInputs.cache
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.RazorAssemblyInfo.cache
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.RazorAssemblyInfo.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.AssemblyInfoInputs.cache
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.AssemblyInfo.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.TagHelpers.input.cache
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.TagHelpers.output.cache
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.RazorCoreGenerate.cache
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\Details.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\Edit.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\LockedAccount.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\LoginForm.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\ProfilePage.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\RegForm.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\ShowUsers.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.RazorTargetAssemblyInfo.cache
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.RazorTargetAssemblyInfo.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.Views.pdb
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.dll
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.pdb
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ copy\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.csproj.CopyComplete
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\bin\Debug\netcoreapp2.1\App1_withMVC.deps.json
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\bin\Debug\netcoreapp2.1\App1_withMVC.runtimeconfig.json
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\bin\Debug\netcoreapp2.1\App1_withMVC.runtimeconfig.dev.json
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\bin\Debug\netcoreapp2.1\App1_withMVC.dll
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\bin\Debug\netcoreapp2.1\App1_withMVC.pdb
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\bin\Debug\netcoreapp2.1\App1_withMVC.Views.dll
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\bin\Debug\netcoreapp2.1\App1_withMVC.Views.pdb
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.csprojAssemblyReference.cache
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.csproj.CoreCompileInputs.cache
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.RazorAssemblyInfo.cache
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.RazorAssemblyInfo.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.AssemblyInfoInputs.cache
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.AssemblyInfo.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.TagHelpers.input.cache
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.TagHelpers.output.cache
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.RazorCoreGenerate.cache
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\Details.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\Edit.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\LockedAccount.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\LoginForm.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\ProfilePage.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\RegForm.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\ShowUsers.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.RazorTargetAssemblyInfo.cache
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.RazorTargetAssemblyInfo.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.Views.pdb
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.dll
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.pdb
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_ till_dataAddingTwoSeprate_table\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.csproj.CopyComplete
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\bin\Debug\netcoreapp2.1\App1_withMVC.deps.json
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\bin\Debug\netcoreapp2.1\App1_withMVC.runtimeconfig.json
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\bin\Debug\netcoreapp2.1\App1_withMVC.runtimeconfig.dev.json
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\bin\Debug\netcoreapp2.1\App1_withMVC.dll
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\bin\Debug\netcoreapp2.1\App1_withMVC.pdb
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\bin\Debug\netcoreapp2.1\App1_withMVC.Views.dll
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\bin\Debug\netcoreapp2.1\App1_withMVC.Views.pdb
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.csprojAssemblyReference.cache
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.csproj.CoreCompileInputs.cache
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.RazorAssemblyInfo.cache
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.RazorAssemblyInfo.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.AssemblyInfoInputs.cache
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.AssemblyInfo.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.TagHelpers.input.cache
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.TagHelpers.output.cache
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.RazorCoreGenerate.cache
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\Details.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\Edit.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\LockedAccount.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\LoginForm.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\ProfilePage.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\RegForm.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\ShowUsers.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.RazorTargetAssemblyInfo.cache
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.RazorTargetAssemblyInfo.cs
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.Views.pdb
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.dll
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.pdb
+C:\Users\Mayur.Patil\Desktop\App1_withMVC_copy\App1_withMVC\obj\Debug\netcoreapp2.1\App1_withMVC.csproj.CopyComplete

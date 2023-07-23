@@ -1,0 +1,42 @@
+﻿@model App1_withMVC.Models.StudentModel
+
+@{
+    ViewData["Title"] = "LoginForm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<script>
+    alert ('@TempData["LoginStatus"]' );
+</script>
+
+
+<h2 class="container-fluid text-info bg-danger " >LoginForm</h2>
+
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="LoginForm">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            
+            <div class="form-group">
+                <label asp-for="StudentEmail"  id="StudentEmail" class="control-label"></label>
+                <input asp-for="StudentEmail"   id="StudentEmail" class="form-control"  autocomplete="off"/>
+                <span asp-validation-for="StudentEmail" id="StudentEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StudentPassword"   id="StudentPassword" class="control-label"></label>
+                <input asp-for="StudentPassword"  type="password" id="StudentPassword" class="form-control" autocomplete="off"/>
+                <span asp-validation-for="StudentPassword" id="StudentPassword" class="text-danger"></span>
+            </div>
+           
+            <div class="form-group">
+                <input type="submit" value="Login"  class="container-fluid text-info bg-danger " />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+

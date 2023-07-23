@@ -1,0 +1,76 @@
+﻿@model App1_withMVC.Models.StudentModel
+
+
+@{
+    ViewData["Title"] = "ShowUsers";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="container-fluid text-info bg-danger ">Users List</h2>
+
+
+<table class="table table-striped tex  font-weight-bold" id="pagination">
+    <thead class="row-border table-bordered">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.StudentID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StudentEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StudentPassword)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Sque)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Sans)
+            </th>
+
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.lststud)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StudentID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StudentEmail)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StudentPassword)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Sque)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Sans)
+                </td>
+
+                <td>
+                    <div >
+                        <h5 class="glyphicon glyphicon-pencil">@Html.ActionLink("Edit", "Edit", new { id = item.StudentID }) </h5>
+                        <h5 class="	glyphicon glyphicon-list-alt">@Html.ActionLink("Details", "Details", new { id = item.StudentID }) </h5>
+                        <h5 class="glyphicon glyphicon-trash">@Html.ActionLink("Delete", "Delete", new { id = item.StudentID })</h5>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

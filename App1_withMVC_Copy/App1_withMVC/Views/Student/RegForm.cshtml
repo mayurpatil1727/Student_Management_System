@@ -1,0 +1,92 @@
+﻿@model App1_withMVC.Models.StudentModel
+
+@{
+    ViewData["Title"] = "RegForm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="container-fluid text-info bg-info ">Regestration Form</h2>
+
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="RegForm">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="FirstName" class="control-label"></label>
+                <input asp-for="FirstName" placeholder="Enter your First Name here!" id="FN" autocomplete="off" class="form-control" required />
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LastName" class="control-label"></label>
+                <input asp-for="LastName" placeholder="Enter your Last Name here!" id="LN" autocomplete="off" class="form-control" required />
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StudentEmail" class="control-label"></label>
+                <input asp-for="StudentEmail" placeholder="Enter your Email here!" id="SE" autocomplete="off" class="form-control" required />
+                <span asp-validation-for="StudentEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StudentPassword" class="control-label"></label>
+                <input asp-for="StudentPassword" placeholder="Enter your Password here!" id="SP" type="password" autocomplete="off" class="form-control" required />
+                <span asp-validation-for="StudentPassword" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Sque" class="control-label"></label>
+                <span asp-validation-for="Sque" class="text-danger"></span>
+                <select id="Sque" name="Sque" class="abc" required>
+                    <option id="1" value="0">Select Security Question</option>
+                    @foreach (var item in ViewBag.pqr)
+                    {
+                        <option value="@item.Qid">@item.SecurityQue</option>
+                    }
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Sans" class="control-label"></label>
+                <input asp-for="Sans" placeholder="Enter your Security answer here!" id="Sans" autocomplete="off" class="form-control" required />
+                <span asp-validation-for="Sans" class="text-danger"></span>
+            </div>
+            <button type="button" id="addEducationSection" class="container-fluid text-info bg-danger">Add Education +</button>
+            <br />
+            <div id="educationContainer">
+                <div class="educationSection  " id="1">
+                    <div name="field1" class="pqr">
+                        <span asp-validation-for="Qualification" class="pqr"></span>
+                        <select id="Qualification" name="Qualification" class="pqr" required>
+                            <option id="1" value="0">Select Qualification</option>
+                            @foreach (var item in ViewBag.abc)
+                            {
+                                <option value="@item.Qid">@item.Qname</option>
+                            }
+                        </select>
+                    </div>
+                    <div name="field2">
+                        <input asp-for="InstName" class="pqr" placeholder="Enter your Institute Name " id="IN" autocomplete="off" required />
+                        <span asp-validation-for="InstName" class="text-danger"></span>
+                    </div>
+                    <div name="field3">
+                        <input asp-for="PassYear" class="pqr" placeholder="Enter your Passing year " id="PY" autocomplete="off" required />
+                        <span asp-validation-for="PassYear" class="text-danger"></span>
+                    </div>
+                    <div name="field4">
+                        <input asp-for="Score" class="pqr" placeholder="Enter your Score " id="SC" autocomplete="off" required />
+                        <span asp-validation-for="Score" class="text-danger"></span>
+                    </div>
+                    <button type="button" id="removeEducationSection" class="removeEducationSection  btn btn-danger  btn-xs ">Remove</button>
+
+                </div>
+            </div>
+    </div>
+</div>
+            </br>
+            </br>
+<div class="form-group">
+    <!--  <input type="submit" value="Register" id="reg" class="container-fluid text-info bg-info" /> -->
+    <button type="submit" id="regtest" class="container-fluid text-info bg-info">Register</button>
+</div>
+        </form>
+    </div>
+</div>
